@@ -1,6 +1,6 @@
 
             ╭───────────────────────╮
-    ────┤           支付宝代码示例结构说明             ├────
+    ────┤     支付宝代码示例结构说明       ├────
             ╰───────────────────────╯ 
 　                                                                  
 　       接口名称：支付宝手机网站支付接口（alipay.wap.create.direct.pay.by.user）
@@ -267,6 +267,6 @@ function query_timestamp()
 https://b.alipay.com/support/helperApply.htm?action=supportHome
 我们会有专门的技术支持人员为您处理
 
-
+注意：<a href="https://cshall.alipay.com/support/help_detail.htm?help_id=483848" target="_blank">对于老的手机网站支付接口在“无线产品密钥管理（wap专用）”下面，新的手机网站支付接口在“合作伙伴密钥管理”下点击“RSA加密”后的“添加密钥/查看密钥</a>
 
 
